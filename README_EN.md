@@ -1,4 +1,4 @@
-# 🐱 SuniClaw
+# SuniClaw
 
 > *"Not cold code, but warm companionship"*
 
