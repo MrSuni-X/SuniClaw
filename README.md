@@ -1,4 +1,4 @@
-# 🚀 SuniClaw
+# 🐱 SuniClaw
 
 > *"不是冷冰冰的代码，而是有温度的陪伴"*
 
@@ -8,7 +8,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/MrSuni-X/SuniClaw)](https://github.com/MrSuni-X/SuniClaw/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/MrSuni-X/SuniClaw)]()
 
-**🇨🇳 中文版** | [🇺🇸 English Version](README_EN.md)
+**🐼 中文版** | [🦅 English Version](README_EN.md)
 
 ---
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 一起创造
+## 🐾 一起创造
 
 > *"最好的助手，不是替代你思考，而是让你思考得更好。"*
 

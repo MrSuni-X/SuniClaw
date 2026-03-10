@@ -1,4 +1,4 @@
-# 🚀 SuniClaw
+# 🐱 SuniClaw
 
 > *"Not cold code, but warm companionship"*
 
@@ -8,7 +8,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/MrSuni-X/SuniClaw)](https://github.com/MrSuni-X/SuniClaw/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/MrSuni-X/SuniClaw)]()
 
-[🇨🇳 中文版](../README.md) | **🇺🇸 English Version**
+[🐼 中文版](../README.md) | **🦅 English Version**
 
 ---
 
@@ -54,7 +54,7 @@ No cold documentation here, only:
 
 ---
 
-## 🚀 Let's Create Together
+## 🐾 Let's Create Together
 
 > *"The best assistant doesn't replace your thinking—it helps you think better."*
 
