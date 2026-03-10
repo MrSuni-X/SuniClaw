@@ -1,12 +1,12 @@
-# 🌟 SuniClaw
+# 🚀 SuniClaw
 
 > *"Not cold code, but warm companionship"*
 
-[![GitHub](https://img.shields.io/badge/GitHub-MrSuni--X-blue?logo=github)](https://github.com/MrSuni-X)
-[![Vibe](https://img.shields.io/badge/Vibe-Warm%20|%20Caring%20|%20Playful-ff69b4)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](../LICENSE)
-[![CI](https://img.shields.io/badge/CI-Passing-brightgreen)]()
-[![Made with Love](https://img.shields.io/badge/Made%20with-💖-ff69b4)]()
+[![GitHub](https://img.shields.io/badge/GitHub-MrSuni--X-181717?logo=github)](https://github.com/MrSuni-X)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](../LICENSE)
+[![CI](https://img.shields.io/github/actions/workflow/status/MrSuni-X/SuniClaw/ci.yml?branch=main&label=CI)](https://github.com/MrSuni-X/SuniClaw/actions)
+[![Last Commit](https://img.shields.io/github/last-commit/MrSuni-X/SuniClaw)](https://github.com/MrSuni-X/SuniClaw/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/MrSuni-X/SuniClaw)]()
 
 [🇨🇳 中文版](../README.md) | **🇺🇸 English Version**
 
