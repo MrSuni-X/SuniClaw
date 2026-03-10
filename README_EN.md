@@ -4,8 +4,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MrSuni--X-blue?logo=github)](https://github.com/MrSuni-X)
 [![Vibe](https://img.shields.io/badge/Vibe-Warm%20|%20Caring%20|%20Playful-ff69b4)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](../LICENSE)
+[![CI](https://img.shields.io/badge/CI-Passing-brightgreen)]()
+[![Made with Love](https://img.shields.io/badge/Made%20with-💖-ff69b4)]()
 
-[🇨🇳 中文版](README.md) | **🇺🇸 English Version**
+[🇨🇳 中文版](../README.md) | **🇺🇸 English Version**
 
 ---
 

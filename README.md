@@ -4,6 +4,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MrSuni--X-blue?logo=github)](https://github.com/MrSuni-X)
 [![Vibe](https://img.shields.io/badge/Vibe-温暖%20|%20贴心%20|%20俏皮-ff69b4)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![CI](https://img.shields.io/badge/CI-Passing-brightgreen)]()
+[![Made with Love](https://img.shields.io/badge/Made%20with-💖-ff69b4)]()
 
 **🇨🇳 中文版** | [🇺🇸 English Version](README_EN.md)
 
